@@ -1,3 +1,6 @@
 .env
 
 .idea
+
+base64_private_key.txt
+base64_public_key.txt
