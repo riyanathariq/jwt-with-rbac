@@ -19,3 +19,8 @@ $ make
 ```bash
 $ make clean
 ```
+
+### run the server
+```bash
+$ make start
+```

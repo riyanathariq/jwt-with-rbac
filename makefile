@@ -7,6 +7,10 @@ BASE64_PRIVATE_KEY = base64_private_key.txt
 BASE64_PUBLIC_KEY = base64_public_key.txt
 KEY_SIZE = 2048
 
+# start
+start:
+	@go run main.go
+
 # Default target
 all: generate-keys clean-intermediate
 
