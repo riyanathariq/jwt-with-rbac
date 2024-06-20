@@ -8,3 +8,14 @@ how to start??
 $ cp .env.example .env
 ```
 
+### fill the .env file using auto generated pem-keys
+```bash
+$ make
+```
+
+## COPY YOUR KEY TO .env
+
+### don't forget to clean up your mess using
+```bash
+$ make clean
+```
